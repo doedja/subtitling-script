@@ -36,8 +36,10 @@ Usage: Automation > Subtitle Folder Search
 ### Terms Changer (terms-changer.lua)
 Replace terms based on terms.txt in the same folder as subtitle (case sensitive).
 - terms.txt format:
+  ```
   old-word1 => new-word1
   old-word2, old-word3 => new-word2, new-word3
   ...
+  ```
 
 Usage: Select lines > Automation > Terms Changer
